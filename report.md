@@ -222,4 +222,4 @@ treeModel <- rpart(classe ~ ., data=trainData, method="class")
 prp(treeModel) # fast plot
 ```
 
-![plot of chunk unnamed-chunk-13](figure/unnamed-chunk-13-1.png) 
+![plot of chunk unnamed-chunk-13](https://github.com/jigneshFc/practical-machine-learning-johnhopkins/blob/master/report_files/figure-html/unnamed-chunk-12-1.png) 
